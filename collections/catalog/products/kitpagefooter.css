@@ -1,0 +1,175 @@
+/* Footer Section */
+.custom-footer {
+
+    background-color: #e2e2e2;
+    color: #fff;
+    /* padding: 40px 20px; */
+
+    padding: 50px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
+
+/* First Div: Logo and Summary */
+.footer-logo-summary {
+    flex: 1;
+    max-width: 300px;
+
+   
+}
+
+
+.footer-logo {
+    width: 150px;
+    margin-bottom: 15px;
+}
+
+.footer-summary {
+
+    color: #000000;
+    font-family: "Karla", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+
+}
+
+/* General Styling for All Divs */
+.footer-heading {
+   
+    margin-bottom: 15px;
+    
+    color: #000000!important;
+    font-family: "Karla", Sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 20px;
+
+   
+
+
+}
+
+/* Links List */
+.footer-links-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #000000;
+}
+
+.footer-links-list li {
+    margin-bottom: 10px;
+    line-height: 30px;
+    
+
+}
+
+.footer-links-list a {
+   
+    text-decoration: none;
+   
+    font-family: "Karla", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+
+}
+
+.footer-links-list a:hover {
+    
+    text-decoration: underline;
+}
+
+/* Fourth Div: Information */
+.footer-info-list {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-info-list li {
+    margin-bottom: 10px;
+    
+
+    color: #000000;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Karla", Sans-serif;
+
+}
+
+.footer-info-list a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Karla", Sans-serif;
+
+}
+
+.footer-info-list a:hover {
+    color: #000000;
+}
+
+/* Social Media Icons with New Class */
+.footer-social-media-icons {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.social-icon {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-icon img {
+    width: 30px; /* Set the size of the icons */
+    height: 30px;
+    transition: transform 0.3s ease;
+}
+
+.social-icon:hover img {
+    transform: scale(1.1); /* Slight zoom on hover */
+}
+
+
+.box .no{
+    
+    color: #6EC1E400;
+    font-family: "Karla", Sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+
+
+/* Copyright Section */
+.footer-copyright {
+
+    border-top: 1px solid gray;
+    background-color: #fff;
+    
+}
+
+
+.footer-copyright p{
+    text-align: center;
+    color: #000000;
+    font-family: "Karla", Sans-serif;
+    font-weight: 400;
+    margin-top: 10px;
+    font-size: 15px;
+   
+}
+
+
+/* ============================================== */
+

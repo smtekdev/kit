@@ -1,0 +1,136 @@
+Uri: https://assets.cloudlift.app/api/assets/upload.js?shop=lexasport.myshopify.com
+File Name: C:\Downloaded Web Sites\lexasport.com\api\assets\upload.js
+Content Type: text/javascript
+
+Uri: https://cdn.judge.me/shopify_v2.css
+File Name: C:\Downloaded Web Sites\lexasport.com\shopify_v2.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/extensions/ae8539a0-d33f-4b34-a461-6ae9257e6b17/lookfy-gallery-311/assets/icon-select.svg
+File Name: C:\Downloaded Web Sites\lexasport.com\extensions\ae8539a0-d33f-4b34-a461-6ae9257e6b17\lookfy-gallery-311\assets\icon-select.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/extensions/ae8539a0-d33f-4b34-a461-6ae9257e6b17/lookfy-gallery-311/assets/lookfy.css
+File Name: C:\Downloaded Web Sites\lexasport.com\extensions\ae8539a0-d33f-4b34-a461-6ae9257e6b17\lookfy-gallery-311\assets\lookfy.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/extensions/ae8539a0-d33f-4b34-a461-6ae9257e6b17/lookfy-gallery-311/assets/lookfy.js
+File Name: C:\Downloaded Web Sites\lexasport.com\extensions\ae8539a0-d33f-4b34-a461-6ae9257e6b17\lookfy-gallery-311\assets\lookfy.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0605/0217/9892/files/WhatsApp_Image_2024-02-10_at_1.00.08_PM_600x600.jpg?v=1707581450
+File Name: C:\Downloaded Web Sites\lexasport.com\s\files\1\0605\0217\9892\files\WhatsApp_Image_2024-02-10_at_1.00.08_PM_600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0605/0217/9892/files/WhatsApp_Image_2024-02-10_at_1.00.21_PM_600x600.jpg?v=1707581393
+File Name: C:\Downloaded Web Sites\lexasport.com\s\files\1\0605\0217\9892\files\WhatsApp_Image_2024-02-10_at_1.00.21_PM_600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0605/0217/9892/files/WhatsApp_Image_2024-02-10_at_12.59.35_PM_600x600.jpg?v=1707581424
+File Name: C:\Downloaded Web Sites\lexasport.com\s\files\1\0605\0217\9892\files\WhatsApp_Image_2024-02-10_at_12.59.35_PM_600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0623/8971/5109/files/lffonticon.eot?7687897
+File Name: C:\Downloaded Web Sites\lexasport.com\s\files\1\0623\8971\5109\files\lffonticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.shopify.com/s/files/1/0623/8971/5109/files/lffonticon.ttf?v=1709023123
+File Name: C:\Downloaded Web Sites\lexasport.com\s\files\1\0623\8971\5109\files\lffonticon.ttf
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/0623/8971/5109/files/lffonticon.woff
+File Name: C:\Downloaded Web Sites\lexasport.com\s\files\1\0623\8971\5109\files\lffonticon.woff
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/0623/8971/5109/files/lffonticon.woff?7687897
+File Name: C:\Downloaded Web Sites\lexasport.com\s\files\1\0623\8971\5109\files\lffonticon-1.woff
+Content Type: font/woff2
+
+Uri: https://inspon-app.com/textfield/backend/js/page_script.js?v=app_block
+File Name: C:\Downloaded Web Sites\lexasport.com\textfield\backend\js\page_script.js
+Content Type: application/javascript
+
+Uri: https://instant.page/5.2.0
+File Name: C:\Downloaded Web Sites\lexasport.com\5.2.0
+Content Type: text/javascript
+
+Uri: https://lexasport.com/cdn/shop/files/front_kit_womens.png?v=1719534802
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\files\front_kit_womens.png
+Content Type: image/png
+
+Uri: https://lexasport.com/cdn/shop/files/front_kit_womens_1024x1024.png?v=1719534802
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\files\front_kit_womens_1024x1024.png
+Content Type: image/png
+
+Uri: https://lexasport.com/cdn/shop/files/Lexa_logo_WB.png?v=1658855220
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\files\Lexa_logo_WB.png
+Content Type: image/png
+
+Uri: https://lexasport.com/cdn/shop/files/LEXA_Sport_logo_png_300x.png?v=1658855521
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\files\LEXA_Sport_logo_png_300x.png
+Content Type: image/png
+
+Uri: https://lexasport.com/cdn/shop/files/soccer_kit_01.png?v=1724359593
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\files\soccer_kit_01.png
+Content Type: image/png
+
+Uri: https://lexasport.com/cdn/shop/files/soccer_kit_01_1024x1024.png?v=1724359593
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\files\soccer_kit_01_1024x1024.png
+Content Type: image/png
+
+Uri: https://lexasport.com/cdn/shop/t/3/assets/styles.css?v=23161934839265533621725727510
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\t\3\assets\styles.css
+Content Type: text/css
+
+Uri: https://lexasport.com/cdn/shop/t/3/assets/theme.js?v=172761886286336948161658892019
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\t\3\assets\theme.js
+Content Type: text/javascript
+
+Uri: https://lexasport.com/cdn/shop/t/3/assets/vendor.min.js?v=11589511144441591071658892019
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\t\3\assets\vendor.min.js
+Content Type: text/javascript
+
+Uri: https://lexasport.com/cdn/shop/t/3/compiled_assets/scripts.js?2357
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\t\3\compiled_assets\scripts.js
+Content Type: text/javascript
+
+Uri: https://lexasport.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.0.0.min.js
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shopifycloud\perf-kit\shopify-perf-kit-1.0.0.min.js
+Content Type: text/javascript
+
+Uri: https://lexasport.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shopifycloud\portable-wallets\latest\portable-wallets.en.js
+Content Type: text/javascript
+
+Uri: https://lexasport.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-80e528be853eac23af2454534897ca9536b1d3d04aa043b042f34879a3c111c8.js?v=20220906
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shopifycloud\shopify\assets\shopify_pay\storefront-80e528be853eac23af2454534897ca9536b1d3d04aa043b042f34879a3c111c8.js
+Content Type: text/javascript
+
+Uri: https://lexasport.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-182c005fe54a3c232faa50c6052f25e136bfbf5dd11fcde6717a2ba8298f44a5.js
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shopifycloud\shopify\assets\storefront\load_feature-182c005fe54a3c232faa50c6052f25e136bfbf5dd11fcde6717a2ba8298f44a5.js
+Content Type: text/javascript
+
+Uri: https://lexasport.com/checkouts/internal/preloads.js?locale=en-US
+File Name: C:\Downloaded Web Sites\lexasport.com\checkouts\internal\preloads.js
+Content Type: application/javascript
+
+Uri: https://lexasport.com/collections/catalog/products/custom-home-kit-soccer
+File Name: C:\Downloaded Web Sites\lexasport.com\collections\catalog\products\custom-home-kit-soccer.html
+Content Type: text/html
+
+Uri: https://lexasport.com/products/custom-home-kit-soccer.oembed
+File Name: C:\Downloaded Web Sites\lexasport.com\products\custom-home-kit-soccer.oembed
+Content Type: application/json+oembed
+
+Uri: https://lookfydemo.myshopify.com/cdn/shop/t/1/assets/lffonticon.svg?7687897
+File Name: C:\Downloaded Web Sites\lexasport.com\cdn\shop\t\1\assets\lffonticon.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.amazonaws.com/me.judge.public-static-assets/general/video-placeholder-640x480.jpeg
+File Name: C:\Downloaded Web Sites\lexasport.com\me.judge.public-static-assets\general\video-placeholder-640x480.jpeg
+Content Type: image/jpeg
+
+Uri: https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=60502179892
+File Name: C:\Downloaded Web Sites\lexasport.com\checkouts\internal\preloads-1.js
+Content Type: application/javascript
+

@@ -1,0 +1,47 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    background-color: #ffffff;
+    
+    font-family: "Karla", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    /* border: 1px solid; */
+    
+}
+
+.logo img {
+    width: 50px; /* Adjust as per your logo size */
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 35px;
+}
+
+.nav-links li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.nav-links li a:hover {
+    /* color: #ffcc00; */
+    text-decoration: underline;
+}
+
+.login-btn {
+    padding: 15px 50px;
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 100px;
+    font-family: "Karla", Sans-serif;
+}
